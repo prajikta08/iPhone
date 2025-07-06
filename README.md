@@ -28,15 +28,15 @@ A stunning 3D product showcase website for the **iPhone 16 Pro** built with **Re
 
 ## 📂 Project Structure
 
-src/
-│
-├── assets/ → Static assets (models, images, textures)
-├── components/ → React components (Navbar, Hero, ProductViewer, etc.)
-├── pages/ → Main pages (Home, etc.)
-├── styles/ → CSS/SCSS or Tailwind configs
-├── App.jsx → Root component
-├── main.jsx → Vite entry point
-└── index.html → HTML template
+- src/
+- │
+- ├── assets/ → Static assets (models, images, textures)
+- ├── components/ → React components (Navbar, Hero, ProductViewer, etc.)
+- ├── pages/ → Main pages (Home, etc.)
+- ├── styles/ → CSS/SCSS or Tailwind configs
+- ├── App.jsx → Root component
+- ├── main.jsx → Vite entry point
+- └── index.html → HTML template
 
 
 ## 📦 Installation
